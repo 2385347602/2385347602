@@ -1,191 +1,199 @@
-<div align="center">
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Liu%20Yang%20%2F%20刘洋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Digital%20Nomad%20in%20Progress%20%7C%20Homelab%20Tinkerer&descAlignY=60&descSize=16" />
 
-<!-- 动态打字效果 -->
+<!-- 打字动画 -->
 <div align="center">
-  <a href="https://liuforge.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=500&lines=console.log(%22Hello%2C+World%22);%E6%88%91%E6%98%AF%E5%88%98%E6%B4%8B%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%88%B1%E6%8A%98%E8%85%BE%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Building+LiuForge+%F0%9F%94%A5;Digital+Nomad+in+Progress+%F0%9F%8C%8F&center=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&repeat=true&width=600&lines=console.log('Hello%2C+World+%F0%9F%8C%8D');+Building+LiuForge+%F0%9F%94%A5;const+life+%3D+%7B+code%2C+travel%2C+tinker+%7D;+%E6%88%91%E5%AE%B6%E6%9C%89+Bug+%F0%9F%90%B6+%E5%92%8C+Pixel+%F0%9F%90%B1;Keep+shipping%2C+stay+curious+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- 社交链接 -->
+<div align="center">
+  <a href="https://liuforge.dev">
+    <img src="https://img.shields.io/badge/🔥_LiuForge-个人主站-6EE7B7?style=for-the-badge" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=2385347602&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS" />
 </div>
 
-<!-- 敲代码图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<br>
 
-<!-- 个人徽标 -->
+---
+
+## 🧑‍💻 关于我 · About Me
+
+```typescript
+const liuyang = {
+  name:       "刘洋 · Liu Yang",
+  username:   "2385347602",
+  location:   "China 🇨🇳  →  World 🌍  (Digital Nomad in Progress)",
+  pets:       ["Bug 🐶 田园犬", "Pixel 🐱 狸花猫"],
+
+  currentlyBuilding: "LiuForge — 个人博客 + 工具集 + 排行榜",
+  currentlyTinkering: ["N100 NAS 自建", "ImmortalWrt 路由折腾", "AI 工作流"],
+
+  stack:      ["TypeScript", "Vue 3", "Astro", "React", "Cloudflare"],
+  tools:      ["Claude Code", "Cursor", "Obsidian", "VS Code"],
+  devices:    ["Lenovo Legion Y9000P", "Xiaomi 14 Pro"],
+
+  goal:       "成为真正的独立开发者，边旅行边 ship 产品",
+  funFact:    "Bug 负责需求评审，Pixel 负责代码审查，我负责背锅",
+};
+```
+
+<br>
+
+---
+
+## 🚀 正在做的事 · Now
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🔨 Building
+| 项目 | 描述 | 状态 |
+|------|------|------|
+| **LiuForge** | 个人站 + 工具集 + 排行榜 | 🟡 进行中 |
+| **NAS 自建** | N100 + TrueNAS + Syncthing | 🟡 规划中 |
+| **AI 工作流** | Claude Code + Obsidian 协同 | 🟢 运行中 |
+
+</td>
+    <td width="50%">
+
+### 📚 Learning
+| 方向 | 内容 |
+|------|------|
+| **前端** | Astro / Vue 3 / TS 深入 |
+| **基础设施** | Cloudflare 生态全栈 |
+| **AI** | Prompt Engineering / 本地模型 |
+| **硬件** | Homelab / NAS / 网络 |
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🛠️ 技术栈 · Tech Stack
+
 <div align="center">
-  <a href="https://liuforge.dev/"><img src="https://img.shields.io/badge/Website-LiuForge-6EE7B7?style=flat&logo=astro" /></a>&emsp;
-  <a href="https://github.com/2385347602"><img src="https://img.shields.io/badge/GitHub-2385347602-181717?style=flat&logo=github" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=2385347602&label=Views&color=6EE7B7&style=flat" alt="访问量统计" />
+
+**前端 & 框架**
+
+<img src="https://skillicons.dev/icons?i=ts,vue,astro,react,js,html,css,tailwind,vite&theme=dark" />
+
+**后端 & 数据库**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,redis,docker&theme=dark" />
+
+**工具 & 平台**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,nginx,vscode,obsidian&theme=dark" />
+
 </div>
 
-<!-- 贪吃蛇贡献图 -->
+<br>
+
+---
+
+## 📊 GitHub 数据 · Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2385347602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2385347602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=2385347602&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=FF6B6B&currStreakLabel=6EE7B7" />
+</div>
+
+<br>
+
+<!-- 3D 贡献图 -->
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/gltf/2385347602" width="75%" alt="3D Contribution" />
+</div>
+
+<br>
+
+---
+
+## 🐍 贡献蛇 · Contribution Snake
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2385347602/2385347602/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2385347602/2385347602/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/2385347602/2385347602/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/2385347602/2385347602/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
-# 🙋 Hello, I'm 刘洋
+<br>
 
-<table>
-<tr><td>
+---
 
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
-<p>&emsp;&emsp;大家好，我是刘洋，一个爱折腾的全栈开发者。</p>
-<p>&emsp;&emsp;热爱编程、硬件折腾、数字游民生活方式。</p>
-<p>&emsp;&emsp;正在构建 <strong>LiuForge</strong> —— 我的个人工具站、博客与排行榜。</p>
-<p>&emsp;&emsp;家里有一只田园犬 <strong>🐶 Bug</strong> 和一只狸花猫 <strong>🐱 Pixel</strong>，它们是我最好的代码审查官。</p>
-<p><strong>&emsp;&emsp;Keep building. Keep shipping. Stay curious.</strong></p>
-
-</td></tr>
-
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- **Web 前端开发工程师** &emsp; 📌 在职中
-  - 工作内容：前端开发，业余时间折腾 NAS / 路由器 / AI 工作流
-  - 当前在研究：Astro + Cloudflare Pages + AI 编程工作流
-
-</td></tr>
-
-<tr><td>
-
-### 🔧 Current Projects
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-* 🚀 **LiuForge** - 个人博客 + 工具集 + 排行榜，基于 Astro + Cloudflare Pages
-* 🛖 **NAS 自建** - N100 平台静音 NAS，Syncthing + Obsidian 知识库同步
-* 🌐 **路由折腾** - Xiaomi AX3000T + ImmortalWrt + OpenClash Mihomo 内核
-* 🤖 **AI 工作流** - Claude Code + Cursor 提效，Obsidian Copilot + Ollama 本地模型
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Knowledge Base (Obsidian)
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-* 📝 前端开发笔记 & 踩坑记录
-* 🛠️ 硬件折腾日志（NAS / 路由器）
-* 🌍 数字游民工具栈研究
-* 💰 个人财务 & 复利思维
-* 🪣 人生 Bucket List（已完成 6 / 100）
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Life & Interests
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-* 📖 在读《纳瓦尔宝典》🌟🌟🌟🌟🌟 力荐
-* 🎮 最近在玩：折腾 Homelab
-* 🐶 Bug 今天又把玩具咬烂了
-* 🐱 Pixel 坐在键盘上 code review
-* ✈️ 目标：成为真正的数字游民，边旅行边工作
-
-</td></tr>
-
-</table>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+## 🏆 奖杯 · Trophy
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2385347602&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+<br>
+
+---
+
+## 📈 活动图 · Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=2385347602&theme=tokyo-night&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=FFFFFF&hide_border=true" />
+</div>
+
+<br>
+
+---
+
+## 🧠 思维导图 · Mind Map
 
 ```mermaid
 mindmap
-  root((刘洋 / LiuForge))
-    编程开发
-      前端 Vue & React
+  root((刘洋))
+    💻 技术
+      前端 Vue & Astro
       TypeScript
-      Astro 静态站点
+      Cloudflare 全栈
       AI 辅助编程
-    硬件折腾
+    🛠️ 折腾
       NAS 自建 N100
-      路由器 ImmortalWrt
-      智能家居
-    数字生活
-      Obsidian 知识库
-      数字游民规划
+      ImmortalWrt 路由
+      Homelab 规划
+    🌍 生活方式
+      数字游民目标
       全球支付工具栈
-    生活爱好
-      Bug 🐶
-      Pixel 🐱
-      旅行
-      健身游泳
+      极简主义
+    🐾 家庭成员
+      Bug 🐶 需求评审
+      Pixel 🐱 代码审查
+    📖 成长
+      Obsidian 知识库
+      Bucket List 100项
+      复利思维
 ```
 
-<!-- 技能徽章 -->
-💪 主力技术栈
+<br>
 
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-
-🚀 基础设施 & 工具
-
-![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Nginx Badge](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-
-🧰 日常使用设备
-
-![Lenovo Badge](https://img.shields.io/badge/Legion_Y9000P-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi_14_Pro-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat)
-![Claude Badge](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=fff&style=flat)
-
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+---
 
 <div align="center">
 
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=2385347602&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,6EE7B7,7DD3FC,818CF8&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2385347602&hide_title=true&hide_border=true&layout=compact&bg_color=0,818CF8,C084FC,F472B6&theme=graywhite&locale=cn" /><br><br>
+*"Build things. Ship often. Stay curious."*
 
-<!-- 连续提交记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2385347602&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
-<br><br>
-
-<!-- GitHub 活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2385347602&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Activity"/>
-
-<!-- 奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=2385347602&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" /><br><br>
-
-<!-- 笑话卡片 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
-<!-- 名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png" width="60"/>
 
 </div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
